@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="awesome">awesome</string>
+    <string name="okayish">okayish</string>
+    <string name="round_off_tip">Round off tip?</string>
+    <string name="calculate">Calculate</string>
+</resources>
